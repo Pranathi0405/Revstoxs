@@ -1,0 +1,22 @@
+2025-08-07 15:00:00 [main] INFO  main.Main - Application started.
+2025-08-07 15:00:05 [main] INFO  main.Main - Database connection established.
+2025-08-07 15:00:10 [main] INFO  main.Main - User entered symbol: TCS
+2025-08-07 15:00:15 [main] INFO  main.Main - User selected analysis type: 1
+2025-08-07 15:00:20 [main] INFO  main.Main - Entering Price Analysis menu.
+2025-08-07 15:00:25 [main] INFO  main.Main - User selected price analysis option: a
+2025-08-07 15:00:30 [main] INFO  main.Main - Calculating daily volatility for TCS
+2025-08-07 15:00:35 [main] INFO  main.Main - Application terminated.
+2025-08-07 15:00:40 [main] INFO  main.Main - Application started.
+2025-08-07 15:00:45 [main] INFO  main.Main - Database connection established.
+2025-08-07 15:00:50 [main] INFO  main.Main - User entered symbol: INFY
+2025-08-07 15:00:55 [main] INFO  main.Main - User selected analysis type: 2
+2025-08-07 15:00:00 [main] INFO  main.Main - Entering Volume Analysis menu.
+2025-08-07 15:00:05 [main] INFO  main.Main - User selected volume analysis option: b
+2025-08-07 15:00:10 [main] INFO  main.Main - Analyzing volume trends for INFY
+2025-08-07 15:00:15 [main] INFO  main.Main - Application terminated.
+2025-08-07 15:00:20 [main] INFO  main.Main - Application started.
+2025-08-07 15:00:25 [main] INFO  main.Main - Database connection established.
+2025-08-07 15:00:30 [main] INFO  main.Main - User entered symbol:
+2025-08-07 15:00:35 [main] WARN  main.Main - Symbol not found in database.
+2025-08-07 15:00:40 [main] INFO  main.Main - Application terminated.
+
